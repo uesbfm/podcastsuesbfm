@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <!-- Informações Gerais do Podcast -->
+    <title>Universidade Notícia - UESB FM</title>
+    <link>https://radio.distintivoblue.com</link>
+    <language>pt-br</language>
+    <copyright>Copyright © 2026</copyright>
+    <itunes:author>UESB FM</itunes:author>
+    <description>Programa Universidade Notícia veiculado pela rádio UESB FM.</description>
+    <itunes:summary>Programa Universidade Notícia veiculado pela rádio UESB FM.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>UESB FM</itunes:name>
+      <itunes:email>seu-email@exemplo.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://archive.org/download/podcastUN_uesbfm/CAPA%20-%20UN%20PODCAST.jpeg"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>no</itunes:explicit>
+
+    <!-- EPISÓDIO 001 -->
+    <item>
+        <title>Universidade Notícia: 'Edição de 02 de Setembro de 2026' - 02/09/2026</title>
+        <link>https://radio.distintivoblue.com</link>
+        <itunes:author>UESB FM</itunes:author>
+        <description>Programa Universidade Notícia veiculado na UESB FM no dia 02 de setembro de 2026.</description>
+        <itunes:summary>Programa Universidade Notícia veiculado na UESB FM no dia 02 de setembro de 2026.</itunes:summary>
+        <pubDate>Wed, 02 Sep 2026 17:35:00 -0300</pubDate>
+        <guid isPermaLink="false">PODCAST_UN_2026-09-02</guid>
+        <itunes:image href="https://archive.org/download/podcastUN_uesbfm/CAPA%20-%20UN%20PODCAST.jpeg"/>
+        <enclosure url="https://media.blubrry.com/4022157/archive.org/download/podcastUN_uesbfm/PODCAST_UN_2026-09-02%20QUA.mp3" length="46347059" type="audio/mpeg"/>
+        <itunes:duration>00:48:13</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
