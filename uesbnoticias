@@ -21,11 +21,11 @@
 
     <!-- EPISÓDIO 001 -->
     <item>
-        <title>Universidade Notícia: 'Edição de 02 de Setembro de 2026' - 02/09/2026</title>
+        <title>Uesb Notícias: Edição de 02/09/2026</title>
         <link>https://radio.distintivoblue.com</link>
         <itunes:author>UESB FM</itunes:author>
-        <description>Programa Universidade Notícia veiculado na UESB FM no dia 02 de setembro de 2026.</description>
-        <itunes:summary>Programa Universidade Notícia veiculado na UESB FM no dia 02 de setembro de 2026.</itunes:summary>
+        <description>Noticiário diário da UESB FM. Apresentação: Manuela Scipioni e Yasmin Luene.</description>
+        <itunes:summary>Informação, formação e conhecimento.</itunes:summary>
         <pubDate>Wed, 02 Sep 2026 17:35:00 -0300</pubDate>
         <guid isPermaLink="false">PODCAST_UN_2026-09-02</guid>
         <itunes:image href="https://archive.org/download/podcastUN_uesbfm/CAPA%20-%20UN%20PODCAST.jpeg"/>
