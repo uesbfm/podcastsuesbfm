@@ -4,16 +4,16 @@
     xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <!-- Informações Gerais do Podcast -->
-    <title>Universidade Notícia - UESB FM</title>
+    <title>UESB Notícias - UESB FM</title>
     <link>https://radio.distintivoblue.com</link>
     <language>pt-br</language>
-    <copyright>Copyright © 2026</copyright>
+    <copyright>Copyright © 2026 UESB FM - Universidade Estadual do Sudoeste da Bahia</copyright>
     <itunes:author>UESB FM</itunes:author>
-    <description>Programa Universidade Notícia veiculado pela rádio UESB FM.</description>
-    <itunes:summary>Programa Universidade Notícia veiculado pela rádio UESB FM.</itunes:summary>
+    <description>Noticiário diário da UESB FM. Apresentação: Manuela Scipioni e Yasmin Luene.</description>
+    <itunes:summary>Informação, formação e conhecimento.</itunes:summary>
     <itunes:owner>
       <itunes:name>UESB FM</itunes:name>
-      <itunes:email>seu-email@exemplo.com</itunes:email>
+      <itunes:email>uesbfm.vc@uesb.edu.br</itunes:email>
     </itunes:owner>
     <itunes:image href="https://archive.org/download/podcastUN_uesbfm/CAPA%20-%20UN%20PODCAST.jpeg"/>
     <itunes:category text="News"/>
