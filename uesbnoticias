@@ -20,21 +20,6 @@
     <itunes:explicit>no</itunes:explicit>
 
 
-```python
-# Calculate exact bytes for 45.7M
-bytes_qua = int(45.7 * 1024 * 1024)
-print(f"QUA Bytes: {bytes_qua}")
-
-
-```
-
-```text
-QUA Bytes: 47919923
-
-
-```
-
-```xml
     <!-- EPISÓDIO 011 -->
     <item>
         <title>Uesb Notícias: Edição de 16/09/2026 - quarta-feira</title>
