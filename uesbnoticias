@@ -20,7 +20,22 @@
     <itunes:explicit>no</itunes:explicit>
 
 
-    <!-- EPISÓDIO 011 -->
+<!-- EPISÓDIO 012 -->
+    <item>
+        <title>Uesb Notícias: Edição de 17/09/2026 - quinta-feira</title>
+        <link>https://radio.distintivoblue.com</link>
+        <itunes:author>UESB FM</itunes:author>
+        <description>Noticiário diário da UESB FM. Apresentação: Manuela Scipioni e Yasmin Luene.</description>
+        <itunes:summary>Informação, formação e conhecimento.</itunes:summary>
+        <pubDate>Thu, 17 Sep 2026 17:19:00 -0300</pubDate>
+        <guid isPermaLink="false">PODCAST_UN_2026-09-17</guid>
+        <itunes:image href="https://archive.org/download/podcastUN_uesbfm/CAPA%20-%20UN%20PODCAST.jpeg"/>
+        <enclosure url="https://media.blubrry.com/4022157/archive.org/download/podcastUN_uesbfm/PODCAST_UN_2026-09-17%20QUI.mp3" length="48129638" type="audio/mpeg"/>
+        <itunes:duration>00:50:05</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>   
+
+<!-- EPISÓDIO 011 -->
     <item>
         <title>Uesb Notícias: Edição de 16/09/2026 - quarta-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -35,9 +50,6 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
 
-```
-
-**Instruções:** Cole este bloco no topo do arquivo no GitHub, logo acima do `<item>` do dia 15/09 (`EPISÓDIO 010`).
 <!-- EPISÓDIO 010 -->
     <item>
         <title>Uesb Notícias: Edição de 15/09/2026 - terça-feira</title>
