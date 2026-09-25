@@ -19,6 +19,34 @@
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
 
+<!-- EPISÓDIO 018 (SEXTA-FEIRA) -->
+    <item>
+        <title>Uesb Notícias: Edição de 25/09/2026 - sexta-feira</title>
+        <link>https://radio.distintivoblue.com</link>
+        <itunes:author>UESB FM</itunes:author>
+        <description>Noticiário diário da UESB FM. Apresentação: Manuela Scipioni e Yasmin Luene.</description>
+        <itunes:summary>Informação, formação e conhecimento.</itunes:summary>
+        <pubDate>Fri, 25 Sep 2026 19:03:00 -0300</pubDate>
+        <guid isPermaLink="false">PODCAST_UN_2026-09-25</guid>
+        <itunes:image href="https://archive.org/download/podcastUN_uesbfm/CAPA%20-%20UN%20PODCAST.jpeg"/>
+        <enclosure url="https://media.blubrry.com/4022157/archive.org/download/podcastUN_uesbfm/PODCAST_UN_2026-09-25%20SEX.mp3" length="36175872" type="audio/mpeg"/>
+        <itunes:duration>00:50:14</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <!-- EPISÓDIO 017 (QUINTA-FEIRA) -->
+    <item>
+        <title>Uesb Notícias: Edição de 24/09/2026 - quinta-feira</title>
+        <link>https://radio.distintivoblue.com</link>
+        <itunes:author>UESB FM</itunes:author>
+        <description>Noticiário diário da UESB FM. Apresentação: Manuela Scipioni e Yasmin Luene.</description>
+        <itunes:summary>Informação, formação e conhecimento.</itunes:summary>
+        <pubDate>Fri, 25 Sep 2026 19:02:00 -0300</pubDate>
+        <guid isPermaLink="false">PODCAST_UN_2026-09-24</guid>
+        <itunes:image href="https://archive.org/download/podcastUN_uesbfm/CAPA%20-%20UN%20PODCAST.jpeg"/>
+        <enclosure url="https://media.blubrry.com/4022157/archive.org/download/podcastUN_uesbfm/PODCAST_UN_2026-09-24%20QUI.mp3" length="34288435" type="audio/mpeg"/>
+        <itunes:duration>00:47:37</itunes:duration>
+        <itunes:expl
 <!-- EPISÓDIO 016 -->
     <item>
         <title>Uesb Notícias: Edição de 23/09/2026 - quarta-feira</title>
