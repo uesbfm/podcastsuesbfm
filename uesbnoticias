@@ -19,6 +19,20 @@
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
 
+<!-- EPISÓDIO 023 -->
+    <item>
+        <title>Uesb Notícias: Edição de 02/10/2026 - sexta-feira</title>
+        <link>https://radio.distintivoblue.com</link>
+        <itunes:author>UESB FM</itunes:author>
+        <description>Noticiário diário da UESB FM. Apresentação: Manuela Scipioni e Yasmin Luene.</description>
+        <itunes:summary>Informação, formação e conhecimento.</itunes:summary>
+        <pubDate>Fri, 02 Oct 2026 17:30:00 -0300</pubDate>
+        <guid isPermaLink="false">PODCAST_UN_2026-10-02</guid>
+        <itunes:image href="https://archive.org/download/podcastUN_uesbfm/CAPA%20-%20UN%20PODCAST.jpeg"/>
+        <enclosure url="https://media.blubrry.com/4022157/archive.org/download/podcastUN_uesbfm/PODCAST_UN_2026-10-02%20SEX.mp3" length="48024780" type="audio/mpeg"/>
+        <itunes:duration>01:06:44</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 <!-- EPISÓDIO 022 -->
     <item>
         <title>Uesb Notícias: Edição de 01/10/2026 - quinta-feira</title>
