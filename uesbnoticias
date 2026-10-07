@@ -19,8 +19,22 @@
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- EPISÓDIO 026 -->
+    <item>
+        <title>Uesb Notícias: Edição de 07/10/2026 - quarta-feira</title>
+        <link>https://radio.distintivoblue.com</link>
+        <itunes:author>UESB FM</itunes:author>
+        <description>Noticiário diário da UESB FM. Apresentação: Manuela Scipioni e Yasmin Luene.</description>
+        <itunes:summary>Informação, formação e conhecimento.</itunes:summary>
+        <pubDate>Wed, 07 Oct 2026 17:07:00 -0300</pubDate>
+        <guid isPermaLink="false">PODCAST_UN_2026-10-07</guid>
+        <itunes:image href="https://archive.org/download/podcastUN_uesbfm/CAPA%20-%20UN%20PODCAST.jpeg"/>
+        <enclosure url="https://media.blubrry.com/4022157/archive.org/download/podcastUN_uesbfm/PODCAST_UN_2026-10-07%20QUA.mp3" length="41209036" type="audio/mpeg"/>
+        <itunes:duration>00:57:14</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 
-<!-- EPISÓDIO 025 -->
+    <!-- EPISÓDIO 025 -->
     <item>
         <title>Uesb Notícias: Edição de 06/10/2026 - terça-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -34,7 +48,8 @@
         <itunes:duration>00:57:52</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
-<!-- EPISÓDIO 024 -->
+
+    <!-- EPISÓDIO 024 -->
     <item>
         <title>Uesb Notícias: Edição de 05/10/2026 - segunda-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -48,7 +63,8 @@
         <itunes:duration>00:57:50</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
-<!-- EPISÓDIO 023 -->
+
+    <!-- EPISÓDIO 023 -->
     <item>
         <title>Uesb Notícias: Edição de 02/10/2026 - sexta-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -62,7 +78,8 @@
         <itunes:duration>01:06:44</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
-<!-- EPISÓDIO 022 -->
+
+    <!-- EPISÓDIO 022 -->
     <item>
         <title>Uesb Notícias: Edição de 01/10/2026 - quinta-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -76,7 +93,8 @@
         <itunes:duration>00:48:55</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
-<!-- EPISÓDIO 021 -->
+
+    <!-- EPISÓDIO 021 -->
     <item>
         <title>Uesb Notícias: Edição de 30/09/2026 - quarta-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -90,7 +108,8 @@
         <itunes:duration>00:48:59</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
-<!-- EPISÓDIO 020 -->
+
+    <!-- EPISÓDIO 020 -->
     <item>
         <title>Uesb Notícias: Edição de 29/09/2026 - terça-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -104,7 +123,8 @@
         <itunes:duration>00:53:19</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
-<!-- EPISÓDIO 019 -->
+
+    <!-- EPISÓDIO 019 -->
     <item>
         <title>Uesb Notícias: Edição de 28/09/2026 - segunda-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -118,7 +138,8 @@
         <itunes:duration>00:49:51</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
-<!-- EPISÓDIO 018 (SEXTA-FEIRA) -->
+
+    <!-- EPISÓDIO 018 (SEXTA-FEIRA) -->
     <item>
         <title>Uesb Notícias: Edição de 25/09/2026 - sexta-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -140,13 +161,15 @@
         <itunes:author>UESB FM</itunes:author>
         <description>Noticiário diário da UESB FM. Apresentação: Manuela Scipioni e Yasmin Luene.</description>
         <itunes:summary>Informação, formação e conhecimento.</itunes:summary>
-        <pubDate>Fri, 25 Sep 2026 19:02:00 -0300</pubDate>
+        <pubDate>Thu, 24 Sep 2026 19:02:00 -0300</pubDate>
         <guid isPermaLink="false">PODCAST_UN_2026-09-24</guid>
         <itunes:image href="https://archive.org/download/podcastUN_uesbfm/CAPA%20-%20UN%20PODCAST.jpeg"/>
         <enclosure url="https://media.blubrry.com/4022157/archive.org/download/podcastUN_uesbfm/PODCAST_UN_2026-09-24%20QUI.mp3" length="34288435" type="audio/mpeg"/>
         <itunes:duration>00:47:37</itunes:duration>
-        <itunes:expl
-<!-- EPISÓDIO 016 -->
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <!-- EPISÓDIO 016 -->
     <item>
         <title>Uesb Notícias: Edição de 23/09/2026 - quarta-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -160,7 +183,8 @@
         <itunes:duration>00:46:16</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
-<!-- EPISÓDIO 015 -->
+
+    <!-- EPISÓDIO 015 -->
     <item>
         <title>Uesb Notícias: Edição de 22/09/2026 - terça-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -174,7 +198,8 @@
         <itunes:duration>00:31:39</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
-<!-- EPISÓDIO 014 -->
+
+    <!-- EPISÓDIO 014 -->
     <item>
         <title>Uesb Notícias: Edição de 21/09/2026 - segunda-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -189,7 +214,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
 
-<!-- EPISÓDIO 013 -->
+    <!-- EPISÓDIO 013 -->
     <item>
         <title>Uesb Notícias: Edição de 18/09/2026 - sexta-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -204,7 +229,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
 
-<!-- EPISÓDIO 012 -->
+    <!-- EPISÓDIO 012 -->
     <item>
         <title>Uesb Notícias: Edição de 17/09/2026 - quinta-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -217,9 +242,9 @@
         <enclosure url="https://media.blubrry.com/4022157/archive.org/download/podcastUN_uesbfm/PODCAST_UN_2026-09-17%20QUI.mp3" length="48129638" type="audio/mpeg"/>
         <itunes:duration>00:50:05</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
-    </item>   
+    </item>
 
-<!-- EPISÓDIO 011 -->
+    <!-- EPISÓDIO 011 -->
     <item>
         <title>Uesb Notícias: Edição de 16/09/2026 - quarta-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -234,7 +259,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
 
-<!-- EPISÓDIO 010 -->
+    <!-- EPISÓDIO 010 -->
     <item>
         <title>Uesb Notícias: Edição de 15/09/2026 - terça-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -264,7 +289,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
 
-<!-- EPISÓDIO 008 -->
+    <!-- EPISÓDIO 008 -->
     <item>
         <title>Uesb Notícias: Edição de 11/09/2026 - sexta-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -294,7 +319,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
 
-<!-- EPISÓDIO 006 -->
+    <!-- EPISÓDIO 006 -->
     <item>
         <title>Uesb Notícias: Edição de 09/09/2026 - quarta-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -308,7 +333,8 @@
         <itunes:duration>00:46:57</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
-<!-- EPISÓDIO 005 -->
+
+    <!-- EPISÓDIO 005 -->
     <item>
         <title>Uesb Notícias: Edição de 08/09/2026 - terça-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -337,7 +363,8 @@
         <itunes:duration>00:55:32</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
-<!-- EPISÓDIO 003 -->
+
+    <!-- EPISÓDIO 003 -->
     <item>
         <title>Uesb Notícias: Edição de 04/09/2026 - sexta-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -352,7 +379,7 @@
         <itunes:explicit>no</itunes:explicit>
     </item>
 
-<!-- EPISÓDIO 002 -->
+    <!-- EPISÓDIO 002 -->
     <item>
         <title>Uesb Notícias: Edição de 03/09/2026 - quinta-feira</title>
         <link>https://radio.distintivoblue.com</link>
@@ -366,7 +393,8 @@
         <itunes:duration>00:44:17</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
-<!-- EPISÓDIO 001 -->
+
+    <!-- EPISÓDIO 001 -->
     <item>
         <title>Uesb Notícias: Edição de 02/09/2026 - quarta-feira</title>
         <link>https://radio.distintivoblue.com</link>
