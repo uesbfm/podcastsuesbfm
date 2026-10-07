@@ -1,1 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>A Uesb na Uesb FM</title>
+        <link>https://www.uesb.br/</link>
+        <language>pt-br</language>
+        <copyright>© 2026 Uesb FM.</copyright>
+        <description>Conheça a Universidade Estadual do Sudoeste da Bahia através das ondas da Uesb FM.</description>
+        
+        <itunes:author>Uesb FM</itunes:author>
+        <itunes:summary>Conheça a Universidade Estadual do Sudoeste da Bahia através das ondas da Uesb FM.</itunes:summary>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESB%20NA%20UESBFMCAPAjpeg.jpeg"/>
+        
+        <itunes:category text="Education">
+            <itunes:category text="Higher Education"/>
+        </itunes:category>
+        
+        <itunes:owner>
+            <itunes:name>Uesb FM</itunes:name>
+            <itunes:email>uesbfm.vc@uesb.edu.br</itunes:email>
+        </itunes:owner>
 
+        <!-- EPISÓDIOS -->
+
+        <item>
+            <title>Engenharia Florestal - 25/08/2026</title>
+            <link>https://www.uesb.br/</link>
+            <itunes:author>Uesb FM</itunes:author>
+            <description>Episódio sobre o curso de Engenharia Florestal na Uesb FM.</description>
+            <itunes:summary>Episódio sobre o curso de Engenharia Florestal na Uesb FM.</itunes:summary>
+            <pubDate>Tue, 25 Aug 2026 12:00:00 -0300</pubDate>
+            <guid isPermaLink="false">UESBNAUESBFM-E01</guid>
+            <itunes:image href="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESB%20NA%20UESBFMCAPAjpeg.jpeg"/>
+            <enclosure url="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESBNAUESBFM_001_20260825-ENGENHARIA%20FLORESTAL.mp3" length="19608371" type="audio/mpeg"/>
+            <itunes:duration>00:27:16</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Ciências Sociais - 26/08/2026</title>
+            <link>https://www.uesb.br/</link>
+            <itunes:author>Uesb FM</itunes:author>
+            <description>Episódio sobre o curso de Ciências Sociais na Uesb FM.</description>
+            <itunes:summary>Episódio sobre o curso de Ciências Sociais na Uesb FM.</itunes:summary>
+            <pubDate>Wed, 26 Aug 2026 12:00:00 -0300</pubDate>
+            <guid isPermaLink="false">UESBNAUESBFM-E02</guid>
+            <itunes:image href="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESB%20NA%20UESBFMCAPAjpeg.jpeg"/>
+            <enclosure url="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESBNAUESBFM_002_20260826-CIENCIASOCIAIS.mp3" length="15623782" type="audio/mpeg"/>
+            <itunes:duration>00:21:39</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Teatro - 31/08/2026</title>
+            <link>https://www.uesb.br/</link>
+            <itunes:author>Uesb FM</itunes:author>
+            <description>Episódio sobre o curso de Teatro na Uesb FM.</description>
+            <itunes:summary>Episódio sobre o curso de Teatro na Uesb FM.</itunes:summary>
+            <pubDate>Mon, 31 Aug 2026 12:00:00 -0300</pubDate>
+            <guid isPermaLink="false">UESBNAUESBFM-E03</guid>
+            <itunes:image href="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESB%20NA%20UESBFMCAPAjpeg.jpeg"/>
+            <enclosure url="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESBNAUESBFM_002_20260831_TEATRO.mp3" length="18035507" type="audio/mpeg"/>
+            <itunes:duration>00:25:04</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Física - 01/09/2026</title>
+            <link>https://www.uesb.br/</link>
+            <itunes:author>Uesb FM</itunes:author>
+            <description>Episódio sobre o curso de Física na Uesb FM.</description>
+            <itunes:summary>Episódio sobre o curso de Física na Uesb FM.</itunes:summary>
+            <pubDate>Tue, 01 Sep 2026 12:00:00 -0300</pubDate>
+            <guid isPermaLink="false">UESBNAUESBFM-E04</guid>
+            <itunes:image href="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESB%20NA%20UESBFMCAPAjpeg.jpeg"/>
+            <enclosure url="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESBNAUESBFM_004_20260901_F%C3%8DSICA.mp3" length="13002342" type="audio/mpeg"/>
+            <itunes:duration>00:18:05</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Zootecnia - 02/09/2026</title>
+            <link>https://www.uesb.br/</link>
+            <itunes:author>Uesb FM</itunes:author>
+            <description>Episódio sobre o curso de Zootecnia na Uesb FM.</description>
+            <itunes:summary>Episódio sobre o curso de Zootecnia na Uesb FM.</itunes:summary>
+            <pubDate>Wed, 02 Sep 2026 12:00:00 -0300</pubDate>
+            <guid isPermaLink="false">UESBNAUESBFM-E05</guid>
+            <itunes:image href="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESB%20NA%20UESBFMCAPAjpeg.jpeg"/>
+            <enclosure url="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESBNAUESBFM_005_20260902_ZOOTECNIA.mp3" length="10695475" type="audio/mpeg"/>
+            <itunes:duration>00:14:55</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Engenharia de Alimentos - 08/09/2026</title>
+            <link>https://www.uesb.br/</link>
+            <itunes:author>Uesb FM</itunes:author>
+            <description>Episódio sobre o curso de Engenharia de Alimentos na Uesb FM.</description>
+            <itunes:summary>Episódio sobre o curso de Engenharia de Alimentos na Uesb FM.</itunes:summary>
+            <pubDate>Tue, 08 Sep 2026 12:00:00 -0300</pubDate>
+            <guid isPermaLink="false">UESBNAUESBFM-E06</guid>
+            <itunes:image href="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESB%20NA%20UESBFMCAPAjpeg.jpeg"/>
+            <enclosure url="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESBNAUESBFM_006_20260908_ENGALIM.mp3" length="18454937" type="audio/mpeg"/>
+            <itunes:duration>00:25:35</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Dança - 09/09/2026</title>
+            <link>https://www.uesb.br/</link>
+            <itunes:author>Uesb FM</itunes:author>
+            <description>Episódio sobre o curso de Dança na Uesb FM.</description>
+            <itunes:summary>Episódio sobre o curso de Dança na Uesb FM.</itunes:summary>
+            <pubDate>Wed, 09 Sep 2026 12:00:00 -0300</pubDate>
+            <guid isPermaLink="false">UESBNAUESBFM-E07</guid>
+            <itunes:image href="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESB%20NA%20UESBFMCAPAjpeg.jpeg"/>
+            <enclosure url="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESBNAUESBFM_007_202609009_DANCE.mp3" length="8283750" type="audio/mpeg"/>
+            <itunes:duration>00:11:28</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Ciências Biológicas - 15/09/2026</title>
+            <link>https://www.uesb.br/</link>
+            <itunes:author>Uesb FM</itunes:author>
+            <description>Episódio sobre o curso de Ciências Biológicas na Uesb FM.</description>
+            <itunes:summary>Episódio sobre o curso de Ciências Biológicas na Uesb FM.</itunes:summary>
+            <pubDate>Tue, 15 Sep 2026 12:00:00 -0300</pubDate>
+            <guid isPermaLink="false">UESBNAUESBFM-E08</guid>
+            <itunes:image href="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESB%20NA%20UESBFMCAPAjpeg.jpeg"/>
+            <enclosure url="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESBNAUESBFM_008_202609015_BIOLOGIA.mp3" length="10905190" type="audio/mpeg"/>
+            <itunes:duration>00:15:08</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Engenharia Ambiental - 21/09/2026</title>
+            <link>https://www.uesb.br/</link>
+            <itunes:author>Uesb FM</itunes:author>
+            <description>Episódio sobre o curso de Engenharia Ambiental na Uesb FM.</description>
+            <itunes:summary>Episódio sobre o curso de Engenharia Ambiental na Uesb FM.</itunes:summary>
+            <pubDate>Mon, 21 Sep 2026 12:00:00 -0300</pubDate>
+            <guid isPermaLink="false">UESBNAUESBFM-E09</guid>
+            <itunes:image href="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESB%20NA%20UESBFMCAPAjpeg.jpeg"/>
+            <enclosure url="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESBNAUESBFM_009_202609021_ENG_AMBIENTAL.mp3" length="11010048" type="audio/mpeg"/>
+            <itunes:duration>00:15:18</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Letras - 22/09/2026</title>
+            <link>https://www.uesb.br/</link>
+            <itunes:author>Uesb FM</itunes:author>
+            <description>Episódio sobre o curso de Letras na Uesb FM.</description>
+            <itunes:summary>Episódio sobre o curso de Letras na Uesb FM.</itunes:summary>
+            <pubDate>Tue, 22 Sep 2026 12:00:00 -0300</pubDate>
+            <guid isPermaLink="false">UESBNAUESBFM-E10</guid>
+            <itunes:image href="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESB%20NA%20UESBFMCAPAjpeg.jpeg"/>
+            <enclosure url="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESBNAUESBFM_010_202609022_LETRAS.mp3" length="15309209" type="audio/mpeg"/>
+            <itunes:duration>00:21:16</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Fisioterapia - 23/09/2026</title>
+            <link>https://www.uesb.br/</link>
+            <itunes:author>Uesb FM</itunes:author>
+            <description>Episódio sobre o curso de Fisioterapia na Uesb FM.</description>
+            <itunes:summary>Episódio sobre o curso de Fisioterapia na Uesb FM.</itunes:summary>
+            <pubDate>Wed, 23 Sep 2026 12:00:00 -0300</pubDate>
+            <guid isPermaLink="false">UESBNAUESBFM-E11</guid>
+            <itunes:image href="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESB%20NA%20UESBFMCAPAjpeg.jpeg"/>
+            <enclosure url="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESBNAUESBFM_011_202609023_FISIOTERAPIA.mp3" length="9437184" type="audio/mpeg"/>
+            <itunes:duration>00:13:08</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Odontologia - 28/09/2026</title>
+            <link>https://www.uesb.br/</link>
+            <itunes:author>Uesb FM</itunes:author>
+            <description>Episódio sobre o curso de Odontologia na Uesb FM.</description>
+            <itunes:summary>Episódio sobre o curso de Odontologia na Uesb FM.</itunes:summary>
+            <pubDate>Mon, 28 Sep 2026 12:00:00 -0300</pubDate>
+            <guid isPermaLink="false">UESBNAUESBFM-E12</guid>
+            <itunes:image href="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESB%20NA%20UESBFMCAPAjpeg.jpeg"/>
+            <enclosure url="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESBNAUESBFM_012_202609028_ODONTOLOGIA.mp3" length="12792627" type="audio/mpeg"/>
+            <itunes:duration>00:17:48</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Jornalismo - 30/09/2026</title>
+            <link>https://www.uesb.br/</link>
+            <itunes:author>Uesb FM</itunes:author>
+            <description>Episódio sobre o curso de Jornalismo na Uesb FM.</description>
+            <itunes:summary>Episódio sobre o curso de Jornalismo na Uesb FM.</itunes:summary>
+            <pubDate>Wed, 30 Sep 2026 12:00:00 -0300</pubDate>
+            <guid isPermaLink="false">UESBNAUESBFM-E13</guid>
+            <itunes:image href="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESB%20NA%20UESBFMCAPAjpeg.jpeg"/>
+            <enclosure url="https://archive.org/download/uesb-na-uesbfmcapajpeg/UESBNAUESBFM_013_20260930_JORNALISMO.mp3" length="21810380" type="audio/mpeg"/>
+            <itunes:duration>00:30:21</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+    </channel>
+</rss>
