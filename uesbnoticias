@@ -19,7 +19,35 @@
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
 
+<!-- EPISÓDIO 035 -->
+    <item>
+        <title>Uesb Notícias: Edição de 20/10/2026 - terça-feira</title>
+        <link>https://radio.distintivoblue.com</link>
+        <itunes:author>UESB FM</itunes:author>
+        <description>Noticiário diário da UESB FM. Apresentação: Manuela Scipioni e Yasmin Luene.</description>
+        <itunes:summary>Informação, formação e conhecimento.</itunes:summary>
+        <pubDate>Wed, 21 Oct 2026 17:34:00 -0300</pubDate>
+        <guid isPermaLink="false">PODCAST_UN_2026-10-20</guid>
+        <itunes:image href="https://archive.org/download/podcastUN_uesbfm/CAPA%20-%20UN%20PODCAST.jpeg"/>
+        <enclosure url="https://media.blubrry.com/4022157/archive.org/download/podcastUN_uesbfm/PODCAST_UN_2026-10-20%20QUA.mp3" length="34917580" type="audio/mpeg"/>
+        <itunes:duration>00:48:29</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 
+    <!-- EPISÓDIO 034 -->
+    <item>
+        <title>Uesb Notícias: Edição de 19/10/2026 - segunda-feira</title>
+        <link>https://radio.distintivoblue.com</link>
+        <itunes:author>UESB FM</itunes:author>
+        <description>Noticiário diário da UESB FM. Apresentação: Manuela Scipioni e Yasmin Luene.</description>
+        <itunes:summary>Informação, formação e conhecimento.</itunes:summary>
+        <pubDate>Wed, 21 Oct 2026 17:35:00 -0300</pubDate>
+        <guid isPermaLink="false">PODCAST_UN_2026-10-19-TER</guid>
+        <itunes:image href="https://archive.org/download/podcastUN_uesbfm/CAPA%20-%20UN%20PODCAST.jpeg"/>
+        <enclosure url="https://media.blubrry.com/4022157/archive.org/download/podcastUN_uesbfm/PODCAST_UN_2026-10-19%20TER.mp3" length="32296140" type="audio/mpeg"/>
+        <itunes:duration>00:44:50</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 <!-- EPISÓDIO 033 -->
     <item>
         <title>Uesb Notícias: Edição de 19/10/2026 - segunda-feira</title>
